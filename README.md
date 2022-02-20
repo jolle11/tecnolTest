@@ -17,10 +17,21 @@ En el commit 2 se ha hecho lo siguiente:
 
 -   Se han generado los modelos para cada una de las entidades especificadas y se han declarado sus atributos (para ser usados en un posterior CRUD).
 
-## **Commit 3 - Winter is coming!**
+## **Commit 3 - Relationships are important for us**
 
 En el commit 3 se ha hecho lo siguiente:
 
 -   Se ha creado un diagrama entidad relación (DER) y un diagrama relacional (Tablas).
 
 **Ambos se pueden encontrar dentro de la carpeta DB, ya que son el paso previo a la creación de una base de datos.**
+
+## **Commit 4 - May the force be with you**
+
+En el commit 4 se ha hecho lo siguiente:
+
+-   Se ha generado la base de datos acorde al modelo creado en el commit 3.
+-   Se han insertado 3 categorías de productos.
+-   Se han insertado 2 productos para cada categoría.
+-   Se han insertado 2 reviews para cada producto.
+
+**El script para la creación e inserción de datos en nuestra base de datos se encuentra en la carpeta DB. Este se encuentra en formato .sql y en formato .tst por si hubiera problemas de incompatibilidad (no debería).**

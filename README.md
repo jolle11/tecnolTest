@@ -13,6 +13,14 @@ En el commit 1 se ha hecho lo siguiente:
 
 ## **Commit 2 - Winter is coming!**
 
-En el commit 1 se ha hecho lo siguiente:
+En el commit 2 se ha hecho lo siguiente:
 
 -   Se han generado los modelos para cada una de las entidades especificadas y se han declarado sus atributos (para ser usados en un posterior CRUD).
+
+## **Commit 3 - Winter is coming!**
+
+En el commit 3 se ha hecho lo siguiente:
+
+-   Se ha creado un diagrama entidad relación (DER) y un diagrama relacional (Tablas).
+
+**Ambos se pueden encontrar dentro de la carpeta DB, ya que son el paso previo a la creación de una base de datos.**

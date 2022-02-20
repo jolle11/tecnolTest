@@ -1,6 +1,6 @@
 # Backend PHP Junior Developer Test
 
-## **Commit 1 - Let's go!**
+## **Commit 1 - Let's go! 🎢**
 
 En el commit 1 se ha hecho lo siguiente:
 
@@ -11,13 +11,13 @@ En el commit 1 se ha hecho lo siguiente:
 -   Se ha creado la carpeta DB y el archivo db.php para conectar nuestra aplicación con la base de datos (que vamos a crear en el commit 4).
 -   Dentro de la carpeta Models se han creado un header.php (dentro del header se ha incluido la hoja de estilos de la librería Bootstrap para la parte de front) y un footer.php que serán usados una sola vez en el index.php, ya que son comunes en toda nuestra aplicación.
 
-## **Commit 2 - Winter is coming!**
+## **Commit 2 - Winter is coming! 🥶**
 
 En el commit 2 se ha hecho lo siguiente:
 
 -   Se han generado los modelos para cada una de las entidades especificadas y se han declarado sus atributos (para ser usados en un posterior CRUD).
 
-## **Commit 3 - Relationships are important for us**
+## **Commit 3 - Relationships are important for us 👫**
 
 En el commit 3 se ha hecho lo siguiente:
 
@@ -25,7 +25,7 @@ En el commit 3 se ha hecho lo siguiente:
 
 **Ambos se pueden encontrar dentro de la carpeta DB, ya que son el paso previo a la creación de una base de datos.**
 
-## **Commit 4 - May the force be with you**
+## **Commit 4 - May the force be with you 💪**
 
 En el commit 4 se ha hecho lo siguiente:
 
@@ -35,3 +35,18 @@ En el commit 4 se ha hecho lo siguiente:
 -   Se han insertado 2 reviews para cada producto.
 
 **El script para la creación e inserción de datos en nuestra base de datos se encuentra en la carpeta DB. Este se encuentra en formato .sql y en formato .tst por si hubiera problemas de incompatibilidad (no debería).**
+
+## **Commit 5 - MVC 👀**
+
+En el commit 5 se ha hecho lo siguiente:
+
+-   Se han finalizado los modelos con su constructor y su funcion get para traer datos de la base de datos.
+-   Se han creado las vistas para las diferentes tablas dandoles estilos de Bootstrap.
+-   Se ha actualizado el controlador para que haga la interaccion entre los diferentes modelos y vistas.
+-   Se ha actualizado el index.php anadiendole el header, el controlador, el script para las animaciones de Bootstrap y el footer.
+
+Sin exito:
+
+-   No se ha podido hacer CREATE.
+-   No se ha podido hacer UPDATE.
+-   No se ha podido hacer DELETE.

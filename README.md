@@ -50,3 +50,7 @@ Sin exito:
 -   No se ha podido hacer CREATE.
 -   No se ha podido hacer UPDATE.
 -   No se ha podido hacer DELETE.
+
+## **Commit 6 - Get my money! 💸**
+
+No se ha podido generar la ruta API que se pedia en este commit.

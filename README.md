@@ -53,8 +53,12 @@ Sin exito:
 
 ## **Commit 6 - Get my money! 💸**
 
-No se ha podido generar la ruta API que se pedia en este commit.
+No se ha podido generar la ruta API que se pedía en este commit.
 
 ## **Commit 7 - Who is it? 🤔**
 
-No se ha podido generar la ruta API que se pedia en este commit.
+No se ha podido generar la ruta API que se pedía en este commit.
+
+## **Commit 8 - Readme! 📕**
+
+En esta línea finaliza el readme.
